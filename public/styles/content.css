@@ -39,7 +39,7 @@ form {
 }
 
 .feedback-input {
-  color: white;
+  color: rgb(0, 0, 0);
   font-weight: 500;
   font-size: 18px;
   border-radius: 5px;
@@ -80,4 +80,23 @@ textarea {
 }
 [type="submit"]:hover {
   background: #3586ff;
+}
+.title a{
+  color:black;
+}
+
+.title a:hover{
+  text-decoration: none;
+  color:rgb(25, 132, 255);
+}
+
+.post-link a:hover{
+  text-decoration: none;
+}
+
+.post-editor{
+  margin-bottom: 1rem;
+}
+.delete-btn{
+  border: none;
 }

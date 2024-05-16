@@ -1,0 +1,18 @@
+<%- include("partials/header.ejs") %>
+    <h1>New Post</h1>
+    <form method="POST",action="/edit">
+        <input name="title" type="text" class="feedback-input" placeholder="Post Title" />
+        <input name="img_url" type="text" class="feedback-input" placeholder="Post Image-URL" />
+        <div class="post-editor"><textarea name="body" id="editor" ></textarea></div>
+        <input type="submit" value="SUBMIT" />
+      </form>
+    
+    <script>
+        ClassicEditor
+            .create( document.querySelector( '#editor' ) )
+            .catch( error => {
+                console.error( error );
+            } );
+    </script>
+
+<%- include("partials/footer.ejs") %>

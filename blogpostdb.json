@@ -1,0 +1,19 @@
+{
+  "blog": [
+    {
+      "title": "First featurette heading. It’ll blow your mind.",
+      "body": "<p>Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>",
+      "img": "https://imgs.search.brave.com/XW6yTCRYV9G1n0LxJurGvKCZ-yrnBKK61fy-oJYx9wU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/aXN0b2NrcGhvdG8u/Y29tL3Jlc291cmNl/cy9pbWFnZXMvRnJl/ZVBob3Rvcy9GcmVl/LVBob3RvLTc0MHg0/OTItMTUxNTY2NDEz/My5qcGc"
+    },
+    {
+      "title": "Power House of Cell",
+      "body": "<p>Mitochondria is the power house of the cell. It convert food to energy.</p><p><strong>Outer membrane:</strong> Small molecules can pass freely through the outer membrane. This outer portion includes proteins called porins, which form channels that allow proteins to cross. The outer membrane also hosts a number of enzymes with a wide variety of functions.</p><p><strong>Intermembrane space:</strong> This is the area between the inner and outer membranes.</p><p><strong>Inner membrane:</strong> This membrane holds proteins that have several roles. Because there are no porins in the inner membrane, it is impermeable to most molecules. Molecules can only cross the inner membrane in special membrane transporters. The inner membrane is where most ATP is created.</p><p><strong>Cristae:</strong> These are the folds of the inner membrane. They increase the surface area of the membrane, therefore increasing the space available for chemical reactions.</p><p><strong>Matrix:</strong> This is the space within the inner membrane. Containing hundreds of enzymes, it is important in the production of ATP. Mitochondrial DNA is housed here (see below).</p><p>Different cell types have different numbers of mitochondria. For instance, mature red</p>",
+      "img": "https://imgs.search.brave.com/lQSNif-IfVSG8oyAWhTOSfCHVboBlORrgUKjAm9IosM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pMC53/cC5jb20vY2RuLXBy/b2QubWVkaWNhbG5l/d3N0b2RheS5jb20v/Y29udGVudC9pbWFn/ZXMvYXJ0aWNsZXMv/MzIwLzMyMDg3NS9h/LWJhc2ljLWRpYWdy/YW0tb2YtYS1taXRv/Y2hvbmRyaW9uLmpw/Zz93PTExNTUmaD0x/NzQ3"
+    },
+    {
+      "title": "Is this the End??",
+      "body": "<p>Global Warming will be the Cause of the extinction of human beings.</p><h3>What Causes Global Warming ?</h3><p>Gobal warming occurs when carbon dioxide (CO2) and other air pollutants collect in the atmosphere and absorb sunlight and solar radiation that have bounced off the earth’s surface. Normally this radiation would escape into space, but these pollutants, which can last for years to centuries in the atmosphere, trap the heat and cause the planet to get hotter. These heat-trapping pollutants—specifically carbon dioxide, methane, nitrous oxide, water vapor, and synthetic fluorinated gases—are known as greenhouse gases, and their impact is called the greenhouse effect.</p>",
+      "img": "https://imgs.search.brave.com/jpzSU6yD4Y1gommIptxVn2TaDo4Hb42FpItMQ9m39FU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9nbG9iYWwtd2Fy/bWluZ18xMDQ5NTY1/LTIyNS5qcGc_c2l6/ZT02MjYmZXh0PWpw/Zw"
+    }
+  ]
+}

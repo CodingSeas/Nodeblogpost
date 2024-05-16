@@ -4,7 +4,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
+  /* font-family: "Poppins", sans-serif; */
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 
 i {
@@ -175,6 +176,7 @@ footer {
   justify-content: center;
   align-items: center;
   color: white;
+  margin-top: 4rem;
 }
 
 footer .social_icon,
